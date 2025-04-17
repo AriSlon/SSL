@@ -1,17 +1,17 @@
 # SSL
 
-• Usuario github: AriSlon
+• **Usuario github: AriSlon**
 
-• Legajo: 222.715-0
+• **Legajo: 222.715-0**
 
-• Apellido: Slonimsqui
+• **Apellido: Slonimsqui**
 
-• Nombre: Ariel
+• **Nombre: Ariel**
 
-• Número y título del trabajo: 00-CHelloWorld
+• **Número y título del trabajo: 00-CHelloWorld**
 
-• Compilador: GCC.
+• **Compilador: GCC.**
 
-• Version del Compilador: 14.2.0
+• **Version del Compilador: 14.2.0**
 
-• Versión de C que GCC compila: C23.
+• **Versión de C que GCC compila: C23.**
