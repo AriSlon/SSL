@@ -14,4 +14,6 @@
 
 • **Version del Compilador: 14.2.0**
 
-• **Versión de C que GCC compila: C23.**
+• **Versión de C que GCC compila: C23. Averiguado utilizando el truco de inentar compilar a traves del comando "cc -std=c26"**
+
+
